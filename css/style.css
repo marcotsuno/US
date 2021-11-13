@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+body {
+	background-color: lightyellow;
+	color: darkblue;
+	font-size: 14pt;
+	font-family: Arial;
+	line-height: 1.5em;
+
+}
+
+h1 {
+	font-size: 56pt;
+	color: blue;
+	font-family: Arial;
+	text-align: center;
+
+}
+
+.foto01 {
+	margin: 0px 640px;
+}
+
+.foto02 {
+	margin:  0px 640px;
+}
+div.quadrado {
+	text-align: center;
+	display: inline-table;
+	margin: 0px;
+	width: 557px;
+	height: 260px;
+	background-color: lightgray;
+	border: 2px solid black;
+	border-radius: 20px;
+}
+h5 {
+	color: black;
+	font-family: sans-serif;
+}
+
+.subtopico {
+		color: darkblue;
+		font-size: 18pt;
+}
+
+.topico {
+	background-color: lightsalmon;
+	color: darkblue;
+	font-size: 28pt;
+}
+
+.med {
+	color: black;
+	font-size: 18pt;
+	font-style: italic;
+}
+
+.lid {
+	color: black;
+	background-color: lightgray;
+}
